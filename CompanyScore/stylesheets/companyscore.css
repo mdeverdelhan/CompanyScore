@@ -1,0 +1,113 @@
+/*
+* Copyright (C) 2010 Marc de Verdelhan (http://www.verdelhan.eu/)
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+
+body.palm-default {
+    background-color: #DFDFE0;
+}
+
+/* Formulaire */
+.label-ou {
+    text-align: center;
+    background-color: #989892;
+    color: white;
+}
+.spinnerFormulaire {
+    margin-left : auto;
+    margin-right : auto;
+}
+.findButton .palm-button-wrapper {
+    background: url(../images/crystal_clear_rechercher.png) 10px 50% no-repeat;
+}
+
+
+/* Liste entreprises */
+.header-resultats {
+    background: url(../images/crystal_clear_rechercher.png) 235px 50% no-repeat;
+}
+.modification {
+    color: red;
+    font-size: 16px;
+}
+.arial10, .infos3 {
+    font-size: 12px;
+    color: #444;
+}
+.infos {
+    font-size: 14px;
+    font-style: italic;
+}
+
+/* Fiches entreprises */
+.titre-fiche-societe {
+    font-size: 14px;
+}
+.titreGris {
+    background-color: #0000FF;
+    color: white;
+    font-size: 18px;
+}
+.arial8 {
+    font-size: 10px;
+    color: #444;
+}
+.ligne1_2, .arial12Bold {
+    width: 40%;
+    font-size: 14px;
+}
+.ligne2_2, .arial12 {
+    width: 60%;
+    font-size: 14px;
+}
+.boutonPetit {
+    font-size: 12px;
+}
+.bulleExpert {
+    font-size: 14px;
+}
+.titre-comptes {
+    font-size: 14px;
+}
+
+/* Favoris */
+.header-favoris {
+    background: url(../images/crystal_clear_favoris.png) 235px 50% no-repeat;
+}
+#listeFavorisVide, #listeResultatsVide {
+    text-align: center;
+    font-size: 14px;
+}
+
+/* Aide */
+.header-aide {
+    background: url(../images/crystal_clear_aide.png) 235px 50% no-repeat;
+}
+#texte-aide, #texte-aide p {
+    font-size: 14px;
+    text-align: justify;
+}
+.titreAide {
+    background-color: #0000FF;
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.imagesAide {
+    text-align: center;
+}
+.imagesAide img {
+    border: 1px dashed #000;
+}
