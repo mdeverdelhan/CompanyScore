@@ -6,7 +6,7 @@ Ce projet a fait l'objet d'une participation au concours [SFR Jeunes Talents Dé
 
 ## Screenshots
 
-![CompanyScore form](Resources/form.png?raw=true)&nbsp;&nbsp;![CompanyScore file](Resources/file.png?raw=true)&nbsp;&nbsp;![CompanyScore account](Resources/account.png?raw=true)
+![CompanyScore form](Resources/form.png?raw=true)&nbsp;&nbsp;![CompanyScore list](Resources/list.png?raw=true)&nbsp;&nbsp;![CompanyScore file](Resources/file.png?raw=true)&nbsp;&nbsp;![CompanyScore account](Resources/account.png?raw=true)
 
 ## Demo
 
